@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   #counter = 0
-  array[value_to_find]
+ return array[value_to_find]
 end
 
 def find_max_value(array)
